@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "永久 -トコシエ-",
+  "base_artist": "HYDE、MY FIRST STORY",
+  "createdAt": "2026-03-25T15:36:25.723829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "HYDE",
+      "has_synced": true,
+      "path": "select/01_永久_-トコシエ-_HYDE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "HYDE, MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/02_永久_-トコシエ-_HYDE,_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "Hyde",
+      "has_synced": true,
+      "path": "select/03_永久_-トコシエ-_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "MY FIRST STORY×HYDE",
+      "has_synced": true,
+      "path": "select/04_永久_-トコシエ-_MY_FIRST_STORY×HYDE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "HYDE×MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/05_永久_-トコシエ-_HYDE×MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "HYDE × MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/06_永久_-トコシエ-_HYDE_×_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "永久 -トコシエ- - Tokoshie",
+      "artist": "HYDE,MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/07_永久_-トコシエ-_-_Tokoshie_HYDE,MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "My First Story",
+      "has_synced": true,
+      "path": "select/08_永久_-トコシエ-_My_First_Story.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "HYDE x MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/09_永久_-トコシエ-_HYDE_x_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "永久 -トコシエ- - Tokoshie",
+      "artist": "HYDE",
+      "has_synced": true,
+      "path": "select/10_永久_-トコシエ-_-_Tokoshie_HYDE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "永久 -トコシエ-",
+      "artist": "HYDE/MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/11_永久_-トコシエ-_HYDE_MY_FIRST_STORY.txt"
+    }
+  ]
+}
